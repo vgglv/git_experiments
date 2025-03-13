@@ -1,2 +1,3 @@
 what you see here is a test file
 We can edit test1.txt both
+This is a file from feature branch
